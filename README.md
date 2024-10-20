@@ -4,9 +4,3 @@ creator開發安卓app流程
 3. cocos creator 輸出  android project
 4. android studio 開啟 android project
 5. android studio build apk
-
-已做
-1. 安卓啟動關閉create by cocos creator
-
-代辦
-1. 串接google廣告
