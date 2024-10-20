@@ -1,0 +1,9 @@
+com.cocos.service.libservice-packaged_res-0 C:\Users\User\Desktop\work_space\NewProject_2024_09_29\build\android\proj\build\libcocos\intermediates\packaged_res\release
+com.cocos.service.libservice-pngs-1 C:\Users\User\Desktop\work_space\NewProject_2024_09_29\build\android\proj\libservice\build\generated\res\pngs\release
+com.cocos.service.libservice-resValues-2 C:\Users\User\Desktop\work_space\NewProject_2024_09_29\build\android\proj\libservice\build\generated\res\resValues\release
+com.cocos.service.libservice-mergeReleaseResources-3 C:\Users\User\Desktop\work_space\NewProject_2024_09_29\build\android\proj\libservice\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.cocos.service.libservice-mergeReleaseResources-4 C:\Users\User\Desktop\work_space\NewProject_2024_09_29\build\android\proj\libservice\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.cocos.service.libservice-merged_res-5 C:\Users\User\Desktop\work_space\NewProject_2024_09_29\build\android\proj\libservice\build\intermediates\merged_res\release
+com.cocos.service.libservice-libservice-6 C:\Users\User\Desktop\work_space\NewProject_2024_09_29\build\android\proj\libservice\res
+com.cocos.service.libservice-main-7 C:\Users\User\Desktop\work_space\NewProject_2024_09_29\build\android\proj\libservice\src\main\res
+com.cocos.service.libservice-release-8 C:\Users\User\Desktop\work_space\NewProject_2024_09_29\build\android\proj\libservice\src\release\res

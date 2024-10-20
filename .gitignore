@@ -5,7 +5,8 @@
 library/
 temp/
 local/
-build/
+build/android-001
+build/android/proj/build
 profiles/
 #//////////////////////////
 # NPM
