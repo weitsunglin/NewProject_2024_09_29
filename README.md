@@ -7,7 +7,7 @@ creator開發安卓app流程
 
 
 常用目錄
-1. NewProject_2024_09_29/tree/master/native/engine/android/app/src/com/cocos/game → android java檔
+1.  https://github.com/weitsunglin/NewProject_2024_09_29/tree/master/native/engine/android/app/src/com/cocos/game → android java檔
 2. https://github.com/weitsunglin/NewProject_2024_09_29/blob/master/native/engine/android/app/AndroidManifest.xml → android 權限檔案
 3. https://github.com/weitsunglin/NewProject_2024_09_29/blob/master/native/engine/android/app/build.gradle → android studio套件組態檔
 4. https://github.com/weitsunglin/NewProject_2024_09_29/tree/master/assets/scripts → 遊戲層腳本
