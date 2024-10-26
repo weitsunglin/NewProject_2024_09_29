@@ -1,9 +1,12 @@
-# creator開發安卓app流程
+# creator 串接 google admob 流程
 1. 下載cocos creator & android studio 下載sdk 跟 ndk
 2. cocos creator 3.8.3 設定sdk   &  ndk  21.4.7075529
 3. cocos creator 輸出  android project
 4. android studio 開啟 android project
 5. android studio build apk
+6. 安裝 GRADLE 套件: com.google.android.gms:play-services-ads:21.4.0
+7. google admob 建立 廣告應用程式
+8. 將廣告應用程式的appId設定在專案中(AndroidManifest & JAVA檔案都要)
 
 
 # 常用目錄
