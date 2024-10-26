@@ -13,9 +13,15 @@ creator開發安卓app流程
 4. https://github.com/weitsunglin/NewProject_2024_09_29/tree/master/assets/scripts → 遊戲層腳本
 
 
-備註
+app-ads處理流程
 1. 網站目錄存app-ads.txt
 2. 上架app到google play
 3. google play 設定網站地址，不用帶檔案名稱
 4. admob 添加商店地址
 5. admob的app-ads.txt就會通過拉
+
+
+<p align="center">
+  <img src="https://github.com/weitsunglin/NewProject_2024_09_29/blob/master/demo_1.png" alt="demo1" width="45%" />
+  <img src="https://github.com/weitsunglin/NewProject_2024_09_29/blob/master/demo_2.png" alt="demo2" width="45%" />
+</p>
